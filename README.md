@@ -7,6 +7,9 @@ visualizations and KPIs.
 The dashboard enables stakeholders to monitor business performance, identify high-performing products and outlets, and make
 data-driven decisions using interactive filters and charts. A well-structured README helps explain the project, its purpose,
 and usage for GitHub visitors.
+
+<img width="1337" height="741" alt="image" src="https://github.com/user-attachments/assets/e12c02c5-9cb8-494d-ad1e-a1a58e2ffc4b" />
+
 🎯 Objectives
 Analyze total sales performance.
 Compare outlet performance by location and size.
